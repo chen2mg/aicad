@@ -5,6 +5,12 @@ This repository contains the code for CNN/DNN/VGG network introduced in the foll
 
 [A multi-task, multi-stage deep transfer learning model for early prediction of neurodevelopment in very preterm infants](https://www.nature.com/articles/s41598-020-71914-x)
 
+[Early Prediction of Cognitive Deficit in Very Preterm Infants using Brain Structural Connectome with Transfer Learning Enhanced Deep Convolutional Neural Networks](https://www.frontiersin.org/articles/10.3389/fnins.2020.00858/full)
+
+[A Multichannel Deep Neural Network Model Analyzing Multiscale Functional Brain Connectome Data for Attention Deficit Hyperactivity Disorder Detection](https://pubs.rsna.org/doi/10.1148/ryai.2019190012)
+
+[bjective and automated detection of diffuse white matter abnormality in preterm infants using deep convolutional neural networks](https://www.frontiersin.org/articles/10.3389/fnins.2019.00610/full)
+
 ## Installation
 Make sure you have [Python](https://www.python.org/) installed, then install [TensorFlow](https://www.tensorflow.org/install/) on your system.
 
