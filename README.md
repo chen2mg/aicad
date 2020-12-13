@@ -34,18 +34,13 @@ Any discussions, suggestions and questions are welcome!
 ## Citation
 
 ```
-@article{ldct_wgan_perceptual_loss,
-  author={He L, Li H, Wang J, Chen M, Gozdas E, Dillman JR, Parikh NA.},
-  journal={scientific reports - Nature Journal},
-  title={A multi-task, multi-stage deep transfer learning model for early prediction of neurodevelopment in very preterm infants},
-  year={2020},
-  volume={37},
-  number={6},
-  pages={1348-1357},
-  doi={10.1038/s41598-020-71914-x},
-  ISSN={0278-0062},
-  month={Sep},
-}
+He L, Li H, Wang J, Chen M, Gozdas E, Dillman JR, Parikh NA. A multi-task, multi-stage deep transfer learning model for early prediction of neurodevelopment in very preterm infants. (2020). Sci Rep. 15;10(1):15072. PMID: 32934282; PMCID: PMC749223
+
+Chen M, Li H, Wang J, Yuan W, Altaye M, Parikh NA, He L, (2020). Early Prediction of Cognitive Deficit in Very Preterm Infants using Brain Structural Connectome with Transfer Learning Enhanced Deep Convolutional Neural Networks, Front Neurosci, 18;14:858. PMID: 33041749; PMCID: PMC7530168.
+
+Chen M, Li H, Wang J, Dillman JR, Parikh NA, & He L. (2019). A Multichannel Deep Neural Network Model Analyzing Multiscale Functional Brain Connectome Data for Attention Deficit Hyperactivity Disorder Detection. Radiol Artif Intell. 11;2(1):e190012. doi: 10.1148/ryai.2019190012. PMID: 32076663; PMCID: PMC6996597.
+
+Li H., Parikh N.A., Wang J., Merhar S., Chen M., Parikh M., Holland S., He L., (2019). Objective and automated detection of diffuse white matter abnormality in preterm infants using deep convolutional neural networks. Frontiers in Neuroscience, PMCID: PMC6591530 PMID: 31275101
 ```
 
 ## Requirements
